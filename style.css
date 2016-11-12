@@ -1,0 +1,13 @@
+/*
+Template: xeory_extension
+Theme Name: xeory_extension_child
+Theme URI: http://localhost:8080/
+Description: xeory_extensionの子テーマ
+Author: Yayoi Ito
+Version: 1.0
+*/
+
+@import url("../xeory_extension/style.css");
+h2 {
+	color: black;
+}
